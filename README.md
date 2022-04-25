@@ -1,1 +1,1 @@
-# systems_marta
+Welcome to # systems_marta! Here, I will post all the exercises that I have donde during the Informatic Systems subject. This subject belong to my furst year in bilingual DAW (Desarrollo de Aplicaciones Web) or Web Apps Development. Thanks for coming!
